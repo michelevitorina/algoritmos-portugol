@@ -1,0 +1,13 @@
+programa{
+  funcao inicio(){
+real metros,cm  
+escreva ("Metro: ")
+leia(metros)
+
+
+cm= metros*110  
+escreva(cm,"cm")
+
+}
+
+}
