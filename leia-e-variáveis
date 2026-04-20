@@ -1,0 +1,21 @@
+programa {
+  funcao inicio() {
+
+    cadeia nome
+    real peso, salarioDesejado
+    inteiro idade
+
+   escreva ("Digite o seu nome: ")
+     leia (nome)
+
+   escreva ("Digite o seu peso: ")
+     leia (peso)
+
+   escreva ("Digite a sua idade: ")
+     leia (idade)
+
+   escreva ("Digite o seu salário desejado: R$ ")
+     leia (salarioDesejado)
+     
+  }
+}
