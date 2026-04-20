@@ -1,0 +1,29 @@
+programa {
+  funcao inicio() {
+    real nota1, nota2, nota3, peso1, peso2, peso3, totalPesos, mediaPonderada
+
+     escreva ("Digite sua nota da Primeira Unidade: ")
+      leia (nota1)
+
+     escreva ("Digite sua nota da Segunda Unidade: ")
+      leia (nota2)
+
+     escreva ("Digite sua nota da Terceira Unidade: ")
+      leia (nota3)
+
+     escreva ("Digite o peso da nota da Primeira Unidade: ")
+      leia (peso1)
+
+     escreva ("Digite o peso da nota da Segunda Unidade: ")
+      leia (peso2)
+
+     escreva ("Digite o peso da nota da Terceira Unidade: ")
+      leia (peso3)
+
+totalPesos = peso1 + peso2 + peso3
+mediaPonderada = (((nota1 * peso1) + (nota2 * peso2) + (nota3 * peso3)) / totalPesos)
+
+     escreva ("A média ponderada é: ", mediaPonderada)
+     
+  }
+}
