@@ -1,8 +1,10 @@
 programa {
   funcao inicio() {
+
     escreva ("Peixonauta: \n")
     escreva ("     ____   \n")
     escreva (" |\\/   O\\ \n")
     escreva (" |/\\____/  \n")
+
   }
 }
