@@ -1,0 +1,20 @@
+programa {
+  funcao inicio() {
+    
+   real hora, minuto, segundo, totalSegundos
+
+     escreva ("Digite apenas as horas do horário atual: ")
+      leia (hora)
+
+     escreva ("Digite apenas os minutos do horário atual: ")
+      leia (minuto)
+
+     escreva ("Digite apenas as hora do horário atual: ")
+      leia (segundo)
+
+totalSegundos = ((hora * 60) * 60) + (minuto * 60) + segundo 
+
+     escreva ("Já se passaram: ", totalSegundos, " segundos do dia")
+     
+  }
+}
