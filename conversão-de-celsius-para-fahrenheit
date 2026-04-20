@@ -1,0 +1,14 @@
+programa {
+  funcao inicio() {
+    
+    real temperaturaCelsius, temperaturaFahrenheit
+
+    escreva ("Digite a temperatura em Celsius: ")
+     leia (temperaturaCelsius)
+
+temperaturaFahrenheit = (((9 * temperaturaCelsius) + 160) / 5)
+
+    escreva ("A temperatura em Fahrenheit é: ", temperaturaFahrenheit)
+     
+  }
+}
