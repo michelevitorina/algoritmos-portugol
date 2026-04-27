@@ -1,0 +1,15 @@
+programa {
+  funcao inicio() {
+    
+    real gastoConsumo, gastoGorjeta, gastoTotal
+
+    escreva ("Digite quanto você gastou no restaurante em comida e bebida: ")
+    leia (gastoConsumo)
+
+  gastoGorjeta = ((gastoConsumo * 10) / 100)
+  gastoTotal = gastoConsumo + gastoGorjeta
+
+    escreva ("O valor total com a gorjeta é: R$ ", gastoTotal)
+
+  }
+}
