@@ -1,0 +1,15 @@
+programa {
+  funcao inicio() {
+    
+  real salario, salarioMinimo, totalSalarios
+
+    escreva ("Digite o valor do seu salário: R$ ")
+    leia (salario)
+
+  salarioMinimo = 1621
+  totalSalarios = salario / salarioMinimo
+
+    escreva ("Você ganha ", totalSalarios, " salários mínimos")
+
+  }
+}
