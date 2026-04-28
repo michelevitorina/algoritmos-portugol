@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-%20Concluído-brightgreen)
 ![Nível](https://img.shields.io/badge/N%C3%ADvel-Gradua%C3%A7%C3%A3o-blue)
 
-Repositório com exercícios e algoritmos desenvolvidos em Portugol durante meus estudos de lógica de programação e algoritmos e fundamentos da computação.
+Repositório com exercícios e algoritmos desenvolvidos em Portugol durante meus estudos de lógica de programação e fundamentos da computação.
 
 ---
 
@@ -41,3 +41,8 @@ Os exercícios estão organizados por temas, incluindo:
 
 * **Os códigos foram feitos com fins educacionais;**
 * **Podem conter diferentes formas de resolução para o mesmo problema.**
+
+
+---
+**Software Engineering Student [Michele V. M. Lima]** 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michelevitorina)
