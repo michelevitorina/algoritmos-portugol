@@ -29,7 +29,7 @@ Os exercícios estão organizados por temas, incluindo:
 
 ## 🚀 Como utilizar
 
-* **Passo 1:** Para clonar este repositório e ter acesso aos códigos localmente, utilize o comando abaixo.
+* **Passo 1:** Para clonar este repositório e ter acesso aos códigos localmente, utilize o comando abaixo:
 
    `git clone https://github.com/michelevitorina/algoritmos-portugol.git`
 
@@ -42,7 +42,8 @@ Os exercícios estão organizados por temas, incluindo:
 * **Os códigos foram feitos com fins educacionais;**
 * **Podem conter diferentes formas de resolução para o mesmo problema.**
 
+## 💻 Sobre mim
 
----
-**Software Engineering Student [Michele V. M. Lima]** 
+**[Michele Vitorina M. Lima]**
+* **Estudante de Engenharia de Software** 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michelevitorina)
